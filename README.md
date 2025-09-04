@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nines-kyu
+- 🍊 Hi, I’m @Nines九
+- 🖥️ I’m interested in Python Programming
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nines-kyu&layout=donut-vertical&bg_color=000000&title_color=FF914D&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
